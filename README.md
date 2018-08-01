@@ -1,4 +1,4 @@
-### VibratorSystem使用简介
+### VibratorService使用简介
 
 ```
 Vibrator vibrator = (Vibrator) getSystemService(Context.VIBRATOR_SERVICE);
